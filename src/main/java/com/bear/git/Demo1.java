@@ -12,5 +12,6 @@ public class Demo1 {
         System.out.println("hello git2!");
         System.out.println("hello master-1!");
         System.out.println("hello hot-fix!");
+        System.out.println("hello hot-fix-哈哈!");
     }
 }
